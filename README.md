@@ -1,6 +1,6 @@
 • Project Name : Retro Themed Blog
 
-• Live-site-link : https://retro-themed-project.web.app/
+• Live-site-link : https://retro-themed-project.web.app/ Admin pannel Login email: test@test.com Pass: #2021dev
 
 • Technology : React npm package, React-router-dom , React Bootstrap
 
@@ -8,4 +8,4 @@
 
 • Heroku Link :- https://rocky-inlet-75686.herokuapp.com/addBlogs
 
-• Client-side code : https://github.com/Shaikot3009/Retro-theme-Client-site
+• server-side code : https://github.com/Shaikot3009/retro-Server
